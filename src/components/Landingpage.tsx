@@ -193,7 +193,7 @@ export default function Landingpage() {
                   className="overflow-hidden"
                   style={{ width: 100, height: 100 }}
                 >
-                  <img className="img-fluid" src="img/cat-1.jpg" alt="" />
+                  <img className="img-fluid" src="img/mm1.jpg" alt="" />
                 </div>
                 <div className="flex-fill pl-3">
                   <h6>น้ำเม่า</h6>
@@ -209,7 +209,7 @@ export default function Landingpage() {
                   className="overflow-hidden"
                   style={{ width: 100, height: 100 }}
                 >
-                  <img className="img-fluid" src="img/cat-2.jpg" alt="" />
+                  <img className="img-fluid" src="img/mm2.jpg" alt="" />
                 </div>
                 <div className="flex-fill pl-3">
                   <h6>ข้าวฮางธัญพืช</h6>
@@ -225,7 +225,7 @@ export default function Landingpage() {
                   className="overflow-hidden"
                   style={{ width: 100, height: 100 }}
                 >
-                  <img className="img-fluid" src="img/cat-3.jpg" alt="" />
+                  <img className="img-fluid" src="img/mm3.jpg" alt="" />
                 </div>
                 <div className="flex-fill pl-3">
                   <h6>ข้าวหอมมะลิพันธุ์พื้นเมือง</h6>
@@ -241,7 +241,7 @@ export default function Landingpage() {
                   className="overflow-hidden"
                   style={{ width: 100, height: 100 }}
                 >
-                  <img className="img-fluid" src="img/cat-4.jpg" alt="" />
+                  <img className="img-fluid" src="img/mm4.jpg" alt="" />
                 </div>
                 <div className="flex-fill pl-3">
                   <h6>น้ำพริกและผลิตภัณฑ์แปรรูปจากสมุนไพร</h6>
@@ -257,7 +257,7 @@ export default function Landingpage() {
                   className="overflow-hidden"
                   style={{ width: 100, height: 100 }}
                 >
-                  <img className="img-fluid" src="img/cat-4.jpg" alt="" />
+                  <img className="img-fluid" src="img/mm5.jpg" alt="" />
                 </div>
                 <div className="flex-fill pl-3">
                   <h6>ผ้าย้อมคราม</h6>
@@ -273,7 +273,7 @@ export default function Landingpage() {
                   className="overflow-hidden"
                   style={{ width: 100, height: 100 }}
                 >
-                  <img className="img-fluid" src="img/cat-3.jpg" alt="" />
+                  <img className="img-fluid" src="img/mm6.jpg" alt="" />
                 </div>
                 <div className="flex-fill pl-3">
                   <h6>ผ้าทอมือ</h6>
@@ -289,10 +289,10 @@ export default function Landingpage() {
                   className="overflow-hidden"
                   style={{ width: 100, height: 100 }}
                 >
-                  <img className="img-fluid" src="img/cat-2.jpg" alt="" />
+                  <img className="img-fluid" src="img/mm7.jpg" alt="" />
                 </div>
                 <div className="flex-fill pl-3">
-                  <h6>Category Name</h6>
+                  <h6>เสื้อผ้าดีไซน์ร่วมสมัย</h6>
                   <small className="text-body">100 Products</small>
                 </div>
               </div>
@@ -305,10 +305,10 @@ export default function Landingpage() {
                   className="overflow-hidden"
                   style={{ width: 100, height: 100 }}
                 >
-                  <img className="img-fluid" src="img/cat-1.jpg" alt="" />
+                  <img className="img-fluid" src="img/mm8.jpg" alt="" />
                 </div>
                 <div className="flex-fill pl-3">
-                  <h6>Category Name</h6>
+                  <h6>ถ้วยเซรามิก</h6>
                   <small className="text-body">100 Products</small>
                 </div>
               </div>
@@ -321,10 +321,10 @@ export default function Landingpage() {
                   className="overflow-hidden"
                   style={{ width: 100, height: 100 }}
                 >
-                  <img className="img-fluid" src="img/cat-2.jpg" alt="" />
+                  <img className="img-fluid" src="img/mm9.jpg" alt="" />
                 </div>
                 <div className="flex-fill pl-3">
-                  <h6>Category Name</h6>
+                  <h6>หัตถกรรมไม้</h6>
                   <small className="text-body">100 Products</small>
                 </div>
               </div>
@@ -337,10 +337,10 @@ export default function Landingpage() {
                   className="overflow-hidden"
                   style={{ width: 100, height: 100 }}
                 >
-                  <img className="img-fluid" src="img/cat-1.jpg" alt="" />
+                  <img className="img-fluid" src="img/mm10.jpg" alt="" />
                 </div>
                 <div className="flex-fill pl-3">
-                  <h6>Category Name</h6>
+                  <h6>ผลิตภัณฑ์จักสาน</h6>
                   <small className="text-body">100 Products</small>
                 </div>
               </div>
@@ -353,10 +353,10 @@ export default function Landingpage() {
                   className="overflow-hidden"
                   style={{ width: 100, height: 100 }}
                 >
-                  <img className="img-fluid" src="img/cat-4.jpg" alt="" />
+                  <img className="img-fluid" src="img/mm11.jpg" alt="" />
                 </div>
                 <div className="flex-fill pl-3">
-                  <h6>Category Name</h6>
+                  <h6>ยาดมสมุนไพร</h6>
                   <small className="text-body">100 Products</small>
                 </div>
               </div>
@@ -369,10 +369,10 @@ export default function Landingpage() {
                   className="overflow-hidden"
                   style={{ width: 100, height: 100 }}
                 >
-                  <img className="img-fluid" src="img/cat-3.jpg" alt="" />
+                  <img className="img-fluid" src="img/mm13.jpg" alt="" />
                 </div>
                 <div className="flex-fill pl-3">
-                  <h6>Category Name</h6>
+                  <h6>สบู่สมุนไพร</h6>
                   <small className="text-body">100 Products</small>
                 </div>
               </div>
